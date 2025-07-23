@@ -1,0 +1,7 @@
+# Ignore virtual env and on‑disk DB folder
+venv/
+db/
+
+# (optional) Python cache
+__pycache__/
+*.py[cod]
